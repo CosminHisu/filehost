@@ -1,0 +1,86 @@
+{
+  "submissionEmail": "support@playwinpremio.com",
+  "categories": [
+    {
+      "name": "Account & Profile",
+      "subjects": [
+        "Login Problems",
+        "Account Verification",
+        "Profile Update",
+        "Deactivation Request"
+      ]
+    },
+    {
+      "name": "Wallet",
+      "subjects": [
+        "Cash In",
+        "Failed Transaction",
+        "Refund Request",
+        "Payment Confirmation",
+        "Withdrawal Issues",
+        "Missing Rewards",
+        "Promo Code Issues",
+        "Loyalty Program Questions"
+      ]
+    },
+    {
+      "name": "Technical Issues",
+      "subjects": [
+        "App Crash or Bug Report",
+        "Connection Issues",
+        "Game Freezing or Lagging",
+        "Compatibility Problems",
+        "Feature Not Working"
+      ]
+    },
+    {
+      "name": "Gameplay & Tournaments",
+      "subjects": [
+        "Matchmaking Issues",
+        "Game Rules Clarification",
+        "Reporting a Player",
+        "Tournament Entry or Results",
+        "Game Feedback or Suggestion",
+        "8-Ball Pool Game Issues (Cue Stick Control, Ball Physics, Foul or Win Conditions, etc.)"
+      ]
+    },
+    {
+      "name": "Feedback & Suggestions",
+      "subjects": [
+        "General App Feedback",
+        "New Feature Suggestions",
+        "User Experience Feedback",
+        "Request for New Games"
+      ]
+    },
+    {
+      "name": "Legal & Privacy",
+      "subjects": [
+        "Terms of Service Inquiry",
+        "Privacy Policy Questions",
+        "Data Protection Concerns",
+        "Reporting Abuse"
+      ]
+    },
+    {
+      "name": "Partnerships & Collaboration",
+      "subjects": [
+        "Sponsorship Inquiry",
+        "Affiliate Program",
+        "Media/Press Inquiry",
+        "Influencer Collaboration",
+        "Advertising Opportunities"
+      ]
+    },
+    {
+      "name": "General Inquiries",
+      "subjects": [
+        "App Information",
+        "User Guidelines",
+        "Community Rules",
+        "Event or Promotion Details",
+        "Other Questions"
+      ]
+    }
+  ]
+}
